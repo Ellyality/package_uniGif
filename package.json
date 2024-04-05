@@ -1,14 +1,14 @@
 {
-	"name": "com.ellyality.effect.unibus",
-	"displayName":"Unibus",
+	"name": "com.ellyality.ui.unigif",
+	"displayName":"UniGif",
 	"version": "1.0.0",
-    "author": "Elly Scripts",
+    "author": "Elly UI",
     "unity": "2019.2",
-    "keywords": ["bus", "messager"],
+    "keywords": ["gif", "visual", "ui"],
     "category": "engineering",
     "license": "LICENSE",
 	"description": "",
-    "documentationUrl": "https://github.com/Ellyality/package_unibus/blob/main/README.md",
+    "documentationUrl": "https://github.com/Ellyality/package_uniGif/blob/main/README.md",
     "samples":[
         {
             "displayName": "Demo Scene",

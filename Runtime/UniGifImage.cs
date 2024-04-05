@@ -14,6 +14,7 @@ using UnityEngine.UI;
 /// <summary>
 /// Texture Animation from GIF image
 /// </summary>
+[AddComponentMenu("Ellyality/UI/GIF/GIF Image")]
 public class UniGifImage : MonoBehaviour
 {
     /// <summary>

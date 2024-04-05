@@ -8,6 +8,7 @@ http://opensource.org/licenses/mit-license.php
 using UnityEngine;
 
 [ExecuteInEditMode]
+[AddComponentMenu("Ellyality/UI/GIF/GIF Asoect Controller")]
 public class UniGifImageAspectController : MonoBehaviour
 {
     public int m_originalWidth;
